@@ -17,3 +17,10 @@ MODULE SPLITUP
 3)Creating network resources-Inba.M
 4)Testing user experience-done by all
 
+creating an appstream image:
+    In the appstream console building  the image builder.
+    Stop and delete image builder
+    Revoke stack permission for users in the user pool
+    Disassociate your fleets from stack and delete the stack.
+    Stop and delete the fleet.
+    
