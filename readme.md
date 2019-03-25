@@ -10,19 +10,18 @@ End Sub
 
 
 # Form 2
-# user name:
+USER NAME:
 Private Sub Form_Load()
 End Sub
 Private Sub Text1_Change()
-Password:
 
+PASSWORD:
 Private Sub Form_Load()
 End Sub
 Private Sub Text1_Change()
 End Sub
 
 LOGIN
-
 Private Sub Command1_Click()
 End Sub
 Private Sub Form_Load()
@@ -33,6 +32,7 @@ Private Sub Text2_Change()
 End Sub
 Private Sub Text2_Change()
 End Sub
+
 DATABASE
 Private Sub Adodc1_Click()
 End Sub
@@ -68,10 +68,9 @@ Form3.Show
 Unload Me
 End Sub
 
-FORM 3
-STUEDENT ACADEMIC DETAILS
+# FORM 3
+STUEDENT ACADEMIC DETAILS:
 Private Sub Adodc1_Click()
-
 End Sub
 Private Sub Command1_Click()
 Form4.Show
@@ -94,7 +93,7 @@ End Sub
 Private Sub Label7_Click()
 End Sub
 
-STUDENT  NAME 
+STUDENT  NAME:
 Private Sub Command1_Click()
 Form4.Show
 Unload Me
@@ -102,8 +101,7 @@ End Sub
 Private Sub Label2_Click()
 End Sub
 
-
-ROLL NO
+ROLL NO:
 Private Sub Command1_Click()
 Form4.Show
 Unload Me
@@ -113,27 +111,10 @@ End Sub
 Private Sub Label3_Click()
 End Sub	
 
-DEPT
+DEPT:
 Private Sub Command1_Click()
 Form4.Show
 Unload Me
-End Sub
-
-Private Sub Label2_Click()
-
-End Sub
-Private Sub Label3_Click()
-End Sub
-Private Sub Label4_Click()
-End Sub
-
-
-YEAR
-Private Sub Command1_Click()
-Form4.Show
-Unload Me
-End Sub
-Private Sub Form_Load()
 End Sub
 Private Sub Label2_Click()
 End Sub
@@ -142,7 +123,8 @@ End Sub
 Private Sub Label4_Click()
 End Sub
 
-ATTENDENCE
+
+YEAR:
 Private Sub Command1_Click()
 Form4.Show
 Unload Me
@@ -156,7 +138,7 @@ End Sub
 Private Sub Label4_Click()
 End Sub
 
-PERCENTAGE
+ATTENDENCE:
 Private Sub Command1_Click()
 Form4.Show
 Unload Me
@@ -169,11 +151,8 @@ Private Sub Label3_Click()
 End Sub
 Private Sub Label4_Click()
 End Sub
-Private Sub Label7_Click()
-End Sub
 
-
-MOVE TEXT
+PERCENTAGE:
 Private Sub Command1_Click()
 Form4.Show
 Unload Me
@@ -189,12 +168,28 @@ End Sub
 Private Sub Label7_Click()
 End Sub
 
-CANCEL
+
+MOVE TEXT:
 Private Sub Command1_Click()
 Form4.Show
 Unload Me
 End Sub
+Private Sub Form_Load()
+End Sub
+Private Sub Label2_Click()
+End Sub
+Private Sub Label3_Click()
+End Sub
+Private Sub Label4_Click()
+End Sub
+Private Sub Label7_Click()
+End Sub
 
+CANCEL:
+Private Sub Command1_Click()
+Form4.Show
+Unload Me
+End Sub
 Private Sub Command2_Click()
 End Sub
 Private Sub Form_Load()
@@ -208,7 +203,7 @@ End Sub
 Private Sub Label7_Click()
 End Sub
 
-DATAGRID
+DATAGRID:
 Private Sub Command1_Click()
 Form4.Show
 Unload Me
@@ -228,13 +223,9 @@ End Sub
 Private Sub Label7_Click()
 End Sub
 
-
-
-ADOBE
+ADODC CONNECTIVITY:
 Private Sub Adodc1_Click()
-
 End Sub
-
 Private Sub Command1_Click()
 Form4.Show
 Unload Me
@@ -245,7 +236,6 @@ Private Sub DataGrid1_Click()
 End Sub
 Private Sub Form_Load()
 End Sub
-
 Private Sub Label2_Click()
 End Sub
 Private Sub Label3_Click()
@@ -255,124 +245,84 @@ End Sub
 Private Sub Label7_Click()
 End Sub
 
-FORM 4
+# FORM 4
 STUDENT ID:
-
 Private Sub Command1_Click()
 Form8.Show
 End Sub
-
 Private Sub Command2_Click()
 Form8.Show
 End Sub
-
 Private Sub Label1_Click()
-
 End Sub
-STUDENT NAME
+STUDENT NAME:
 Private Sub Command1_Click()
 Form8.Show
 End Sub
-
 Private Sub Command2_Click()
 Form8.Show
 End Sub
-
 Private Sub Label1_Click()
-
 End Sub
-
 Private Sub Label2_Click()
-
 End Sub
-GENDER
 
+GENDER:
 Private Sub Command1_Click()
 Form8.Show
 End Sub
-
 Private Sub Command2_Click()
 Form8.Show
 End Sub
-
 Private Sub Label1_Click()
-
 End Sub
-
 Private Sub Label2_Click()
-
 End Sub
-
 Private Sub Label3_Click()
-
 End Sub
 
-ADDRESS
+ADDRESS:
 Private Sub Command1_Click()
 Form8.Show
 End Sub
-
 Private Sub Command2_Click()
 Form8.Show
 End Sub
-
 Private Sub Label1_Click()
-
 End Sub
-
 Private Sub Label2_Click()
-
 End Sub
-
 Private Sub Label3_Click()
-
 End Sub
-
 Private Sub Label4_Click()
-
 End Sub
 
-PHONE NO
+PHONE NO:
 Private Sub Command1_Click()
 Form8.Show
 End Sub
-
 Private Sub Command2_Click()
 Form8.Show
 End Sub
-
 Private Sub Label1_Click()
-
 End Sub
-
 Private Sub Label2_Click()
-
 End Sub
-
 Private Sub Label3_Click()
-
 End Sub
-
 Private Sub Label4_Click()
-
 End Sub
-
 Private Sub Label5_Click()
-
 End Sub
- NEXT
+ NEXT:
 Private Sub Command1_Click()
 Form8.Show
 End Sub
-
 Private Sub Command2_Click()
 Form8.Show
 End Sub
-
 Private Sub Label1_Click()
-
 End Sub
-
 Private Sub Label2_Click()
 
 End Sub
