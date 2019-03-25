@@ -1,11 +1,18 @@
 # Form 1
 Private Sub Command1_Click()
+
 Form2.Show
+
 Unload Me
+
 End Sub
+
 Private Sub Command2_Click()
+
 Form6.Show
+
 Unload Me
+
 End Sub	
 
 
