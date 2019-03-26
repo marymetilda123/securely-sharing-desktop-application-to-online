@@ -35,11 +35,6 @@ The shared applications,datas can be secured in VPC services and will be availab
     creating stacks,vpc,subnets
 4)Testing user experience-done by all
 
-# PENDING STATUS
-Testing user experience: 
-1.Providing acess to the user pools.
-2.Getting the notification mail from appstream 2.0 and to start streaming.
-3.setting up of login and providing password.
 
-# project completion percentage: 80
+# project completion percentage: 95
 
